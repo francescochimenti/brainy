@@ -1,8 +1,8 @@
 # Brainy 🧠✨
 
-##Front end: [Here!](https://github.com/francescochimenti/brainy-fe)
-##Back end: [Here!](https://github.com/francescochimenti/brainy-be)
-##Live preview: [Here!](https://brainysocial.netlify.app/)
+## Front end: [Here!](https://github.com/francescochimenti/brainy-fe)
+## Back end: [Here!](https://github.com/francescochimenti/brainy-be)
+## Live preview: [Here!](https://brainysocial.netlify.app/)
 
 ## Brainy: La Riscoperta delle Parole in un Mondo Visivo 🌐🔍
 
